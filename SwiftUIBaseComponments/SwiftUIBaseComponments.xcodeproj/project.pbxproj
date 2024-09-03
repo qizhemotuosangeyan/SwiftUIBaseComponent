@@ -14,6 +14,7 @@
 		EE7376942C53897E0045DA15 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7376932C53897E0045DA15 /* Persistence.swift */; };
 		EE7376972C53897E0045DA15 /* SwiftUIBaseComponments.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EE7376952C53897E0045DA15 /* SwiftUIBaseComponments.xcdatamodeld */; };
 		EE73769F2C5389930045DA15 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE73769E2C5389930045DA15 /* MainView.swift */; };
+		EE8BB9962C674BD200A99AA4 /* globalImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE8BB9952C674BD200A99AA4 /* globalImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EE7376962C53897E0045DA15 /* SwiftUIBaseComponments.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SwiftUIBaseComponments.xcdatamodel; sourceTree = "<group>"; };
 		EE7376982C53897E0045DA15 /* SwiftUIBaseComponments.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftUIBaseComponments.entitlements; sourceTree = "<group>"; };
 		EE73769E2C5389930045DA15 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		EE8BB9952C674BD200A99AA4 /* globalImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = globalImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				EE73768A2C53897B0045DA15 /* SwiftUIBaseComponmentsApp.swift */,
 				EE73769E2C5389930045DA15 /* MainView.swift */,
+				EE8BB9952C674BD200A99AA4 /* globalImage.swift */,
 				EE73768C2C53897B0045DA15 /* ContentView.swift */,
 				EE73768E2C53897E0045DA15 /* Assets.xcassets */,
 				EE7376932C53897E0045DA15 /* Persistence.swift */,
@@ -150,6 +153,7 @@
 			files = (
 				EE7376972C53897E0045DA15 /* SwiftUIBaseComponments.xcdatamodeld in Sources */,
 				EE7376942C53897E0045DA15 /* Persistence.swift in Sources */,
+				EE8BB9962C674BD200A99AA4 /* globalImage.swift in Sources */,
 				EE73768D2C53897B0045DA15 /* ContentView.swift in Sources */,
 				EE73769F2C5389930045DA15 /* MainView.swift in Sources */,
 				EE73768B2C53897B0045DA15 /* SwiftUIBaseComponmentsApp.swift in Sources */,
